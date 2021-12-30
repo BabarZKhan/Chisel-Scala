@@ -1,7 +1,6 @@
 # Chisel-Scala
 
-This is the FPL 2021 tutorial I have attended for Chisel-Scala
-
+This is the FPL 2021 tutorial I have attended for Chisel-Scala from Martin Schoeberl. The original repo is [here](https://github.com/schoeberl/chisel-lab).
 
 
 # Lab Material for Chisel in Digital Electronics 2
